@@ -1,5 +1,4 @@
-# Heading1
-Rewa Takzare
+# Rewa Takzare
 - 👋 Hii, I am Rewa Takzare!
 - 🔭 I’m a Creative Web Developer, working on user web expirence.  
 - 🌱 I’m currently learning React.js, DSA
