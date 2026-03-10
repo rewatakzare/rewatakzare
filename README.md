@@ -1,5 +1,5 @@
 # Rewa Takzare
--  I’m a Web Developer, working on user web experience.
--  I’m currently learning React.js, DSA
--  I’m looking forword to work on full-stack projects!
--  Reach me: takzarerewa@gmail.com.
+- Full Stack Developer Intern
+- I work on software, from system that scale to interfaces that feel right.
+- Interested in creative development, system design and modern web technologies
+- Reach me: takzarerewa@gmail.com
